@@ -1,0 +1,16 @@
+#- Analysis: '1.0-Software-Development/1.2-Analysis.md'
+      #- Design:
+        #- Data Types and Structures: '1.0-Software-Development/1.3.1-Data-Types-and-Structures.md'
+        - Structure Diagrams: '1.0-Software-Development/1.3.2-Structure-Diagrams.md'
+        - Flowcharts: '1.0-Software-Development/1.3.3-Flowcharts.md'
+        - Pseudocode: '1.0-Software-Development/1.3.4-Pseudocode.md'
+      - Evaluation:
+        - Evaluation: '1.0-Software-Development/1.4-Evaluation.md'
+        - Fitness for Purpose: '1.0-Software-Development/1.4.1-Fitness-for-Purpose.md'
+        - Efficient use of Coding Constructs: '1.0-Software-Development/1.4.2-Efficient-use-of-Coding-Constructs.md'
+        - Robustness: '1.0-Software-Development/1.4.3-Robustness.md'
+        - Readability: '1.0-Software-Development/1.4.4-Readability.md'
+        - Evaluation Summary: '1.0-Software-Development/1.4.5-Evaluation-Summary.md'
+
+extra_javascript:
+  - scripts/extra.js
