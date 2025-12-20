@@ -41,8 +41,8 @@ theme:
     - navigation.path
     #- navigation.footer
     - navigation.tabs
-plugins:
-  - glightbox
+#plugins:
+  #- glightbox
 
 
 markdown_extensions:
